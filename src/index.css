@@ -10,6 +10,12 @@ body {
   width: 100%;
   overflow-x: hidden;
 }
+a {
+  text-decoration: none;
+}
+/* .react-reveal {
+  animation-fill-mode: backwards !important;
+} */
 
 @keyframes animateDown {
   0%,
