@@ -4,7 +4,7 @@ import Section from "./Section";
 
 function home() {
   return (
-    <container>
+    <Container>
       <Section
         title="Model S"
         description="Order Online for Touchless Delivery"
@@ -46,7 +46,7 @@ function home() {
         backgroundImg="accessories.jpg"
         leftBtnText="Order now"
       />
-    </container>
+    </Container>
   );
 }
 
